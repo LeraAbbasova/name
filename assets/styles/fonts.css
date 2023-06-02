@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Man;
+    src: url(../fonts/Manrope-Medium.ttf);
+    font-weight: 500;
+    
+}
+@font-face {
+    font-family: Man;
+    src: url(../fonts/Manrope-Regular.ttf);
+    font-weight: 300;    
+}
+@font-face {
+    font-family: Neut;
+    src: url(../fonts/NeutralFace.otf);
+    font-weight: 500;    
+}
+
+
+
